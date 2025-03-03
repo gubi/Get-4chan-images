@@ -1,5 +1,5 @@
 # Get-4chan-images
-A Bash script for iterative download images from 4chan.org
+A Bash script for iterative image download from 4chan.org
 
 ---
 
